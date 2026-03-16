@@ -7,4 +7,3 @@ Suggested contents:
 - mobile app feature draft
 - notes on diagnosis workflow
 - notes on treatment planning
-- future improvement ideas
